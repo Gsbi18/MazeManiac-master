@@ -1,1 +1,1 @@
-#Egy egyszerű C# game 
+Egy egyszerű RPG game
